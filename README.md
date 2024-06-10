@@ -1,4 +1,3 @@
-````markdown
 ## Install and Set Up Python Libraries for Ubuntu 22.04 on Khadas Vim3
 
 ### Update Packages
@@ -8,6 +7,7 @@ First, ensure that all packages are up to date by running the following command:
 ```bash
 sudo apt update
 ```
+
 ````
 
 ### Install Python3
@@ -80,3 +80,4 @@ After completing these steps, you'll have a fully configured Python environment 
 ```
 This enhanced guide provides more context and explanation for each step, ensuring a smoother installation process for your users.
 ```
+````
