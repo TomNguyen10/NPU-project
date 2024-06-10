@@ -8,8 +8,6 @@ First, ensure that all packages are up to date by running the following command:
 sudo apt update
 ```
 
-````
-
 ### Install Python3
 
 Python is a prerequisite for many development tasks. Install Python 3 by executing:
@@ -80,4 +78,3 @@ After completing these steps, you'll have a fully configured Python environment 
 ```
 This enhanced guide provides more context and explanation for each step, ensuring a smoother installation process for your users.
 ```
-````
